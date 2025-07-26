@@ -88,10 +88,10 @@ Windows	⚠️ WSL Recommended
 MacOS	✅ Good
 BSD	❓ Untested
 
-#⚠️ Disclaimer
+# ⚠️ Disclaimer
 🚨 This tool is developed strictly for educational and legal security research purposes. Unauthorized usage is illegal. The author holds no responsibility for misuse.
 
-#🙌 Support
+# 🙌 Support
 If you found this project useful:
-#⭐ Star the repo on GitHub → github.com/Amans66
-#💬 Share it with fellow ethical hackers and security learners.
+# ⭐ Star the repo on GitHub → github.com/Amans66
+# 💬 Share it with fellow ethical hackers and security learners.
