@@ -1,0 +1,9 @@
+scapy
+requests
+beautifulsoup4
+pandas
+scikit-learn
+streamlit
+
+Command to install :
+pip install scapy requests beautifulsoup4 pandas scikit-learn streamlit
