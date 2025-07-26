@@ -47,11 +47,11 @@ source venv/bin/activate
 sudo apt update && sudo apt install python3-pip -y
 pip install -r Requirement.txt
 
-#Step 2: Clone This Repository
+# Step 2: Clone This Repository
 git clone https://github.com/Amans66/Threat-Detection-Suite.git
 cd Threat-Detection-Suite
 
-#Step 3: Run the Tool
+# Step 3: Run the Tool
 python3 main.py
 
 # 🚦 How It Works
